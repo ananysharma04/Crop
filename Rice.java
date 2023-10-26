@@ -1,8 +1,8 @@
-package CropManagement;
+package CropManagement1;
 
 public class Rice {
-    private String name="Rice";
-    private double pricePerUnit=960;
+    private String name;
+    private double pricePerUnit;
     // public Wheat(String name, double pricePerKg) {
     //     this.name = name;
     //     this.pricePerKg = pricePerKg;
