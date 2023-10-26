@@ -1,4 +1,4 @@
-package CropManagement;
+package CropManagement1;
 
 public class Soyabean {
     private String name;
