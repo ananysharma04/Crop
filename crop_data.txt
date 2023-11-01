@@ -1,0 +1,9 @@
+Wheat,100.0,120.0
+Rice ,90.0,130.0
+Maize,70.0,150.0
+Soyabean  ,80.0,140.0
+Bean,70.0,140.0
+Mustard,50.0,133.0
+Supreet,35.0,53.0
+paddy,56.0,7.0
+annany,345.0,2.0
